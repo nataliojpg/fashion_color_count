@@ -18,11 +18,14 @@ This machine learning project utilizes PyTorch and DeepLabV3 to analyze runway i
 
 ## Visualization Examples
 In this code, you can see the original image, the segmented image and the extracted colors in one image, like this:
+
 ![img]('./readmedocs/output1.png')
+
 This visualization is not automatically saved on your computer, you can always do it manually.
 
 The final output, the bar chart that gets saved on your computer, might look like this (it will depend con the number of colores extracted for the images):
-![img]('./readmedocs/outout2.png)
+
+![img]('./readmedocs/output2.png)
 
 Remember you can always edit the chart on the code, changing the titles, and adding color on the color palette on the first visualization.
 
