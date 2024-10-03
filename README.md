@@ -1,15 +1,22 @@
 # Color Count for Runway Images
 ## Overview
-This machine learning project utilizes PyTorch and DeepLabV3 to analyze runway images and count the most trending colors in them. It processes images, extracts color information, and visualizes the results in a bar graph, allowing you to easily see the colors used and their frequency.
+This machine learning project utilizes PyTorch and DeepLabV3 to analyze runway images and count the most trending colors in fashion. It processes images, extracts color information, and saves the results in a bar graph, allowing you to easily see the colors used and their frequency.
 
-Using Pytorch and Deeplabv3 to count trending colors in fashion, returning a bar graph to see the most used color 
 
--> Python file to run code and return graph
+## Documents
+**- /data:** folder with try out images from Hermes' runway show for Spring/Summer 2025
 
-## View and convert RGB code to HEX
-For color conversion and a faster way to view the color, you can use the following online tool:
+**- color.py:** python file where you can list your images and the graph will be saved on your computer
 
-[RGB to HEX converter](https://rgbcolorcode.com/color/converter/#:~:text=This%20interactive%20online%20color%20conversion%20tool)
+**- color_count_notebook.ipynb:** notebook file with the same code, visualizations examples
+
+**- /readmedocs:** folder with images used in this readme file
+
+**- README.md:** this readme file
+
+
+## Visualization Examples
+
 
 ## Tools
 - Python
